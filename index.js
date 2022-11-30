@@ -1,1 +1,2 @@
-cuadro = 3;
+const cuadro = 3;
+const rectangulo =4;
